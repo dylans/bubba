@@ -67,7 +67,7 @@ The command will output the success ofr failure of creating the milestone for ea
 `bubba delete milestone <title> [options]` would delete a milestone across the Dojo 2 repositories.  For example:
 
 ```sh
-> bubba delete miletstone foo
+> bubba delete milestone foo
 ```
 
 Would delete a milestone named `foo` from all the Dojo 2 repositories.
